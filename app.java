@@ -41,7 +41,7 @@ public class app {
         System.out.println("Product Price : " + P3.getPrice());
         System.out.println("Brand : " + P3.getBrand());
         System.out.println("Model : " + P3.getModel());
-        System.out.println("Product Operating System : " + P3.getOS());
+        System.out.println("Operating System : " + P3.getOS());
         System.out.println("**********************************");
 
         System.out.println("Product Name : " + P4.getName());
